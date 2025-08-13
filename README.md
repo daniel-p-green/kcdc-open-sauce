@@ -1,7 +1,7 @@
 # Nonprofit Software Advisor – 2‑Hour MVP
 
 <!-- markdownlint-disable-next-line MD033 -->
-<img src="nonprofit-software-advisor/avatar/Tech%20Support%20Sloth_avatar-kcdc.png" alt="Tech Support Sloth avatar" width="120" />
+<p align="center"><img src="nonprofit-software-advisor/avatar/Tech%20Support%20Sloth_avatar-kcdc.png" alt="Tech Support Sloth avatar" width="300" height="300" /></p>
 
 This folder contains a minimal, working set of assets to stand up a Poe bot or Custom GPT that recommends software to small nonprofits.
 
