@@ -1,5 +1,5 @@
 vendor,product,categories,tags,pricing_band,nonprofit_discount,hosting,baa,locale,url,notes,last_verified_at
-Sanborn,Bringfood,home_delivery_routing,"multi_vehicle;capacity;traffic;free_nonprofit;maps;exports",free,yes,cloud,unknown,US,https://bringfood.care/,Planner for multi-vehicle routes; exports maps and address lists; not a driver app,2025-08-13
+Sanborn,BringFood.care,home_delivery_routing,"multi_vehicle;capacity;traffic;free_nonprofit;maps;exports",free,yes,cloud,unknown,US,https://bringfood.care/,Planner for multi-vehicle routes; exports maps and address lists; not a driver app,2025-08-13
 PantrySoft,PantrySoft,"client_crm|inventory|appointments","portal;reports;low_cost",$$ (approx),yes,cloud,unknown,US,https://www.pantrysoft.com/pricing/,Back-office CRM+inventory; not a routing/driver tool,2025-08-13
 Bloomerang,Bloomerang,donor_crm,"donations;emails;letters;reports",$$,yes,cloud,unknown,US,https://bloomerang.co/,SMB-friendly donor CRM,2025-08-13
 Little Green Light,Little Green Light,donor_crm,"donations;events;forms;reports",$–$$,yes,cloud,unknown,US,https://www.littlegreenlight.com/,Affordable donor CRM for small orgs,2025-08-13
@@ -24,3 +24,12 @@ Slack,Slack,communications,"channels;integrations;huddles",$–$$,yes,cloud,unkn
 Mailchimp,Mailchimp,email_marketing,"audiences;automation;templates",$–$$,yes,cloud,unknown,Global,https://mailchimp.com/affiliates/nonprofits/,Discounts; free tiers vary,2025-08-13
 Canva,Canva for Nonprofits,design,"templates;brand_kit;teams",free,yes,cloud,unknown,Global,https://www.canva.com/canva-for-nonprofits/,Pro features free for nonprofits,2025-08-13
 Social Solutions,Apricot,case_management,"intake;assessments;reporting",$$$–$$$$,unknown,cloud,possible,US,https://www.apricotsoftware.com/,Case management for human services,2025-08-13
+Zeffy,Zeffy,online_fundraising,"donations;events;recurring;no_platform_fees",$ (tips),yes,cloud,unknown,Global,https://www.zeffy.com/,0% platform fee (tip-based funding),2025-08-13
+Jotform,Jotform,forms_surveys,"forms;approvals;pdf;hipaa_option",$$,yes,cloud,possible,Global,https://www.jotform.com/nonprofit/,Nonprofit discount; HIPAA add-on available,2025-08-13
+Twilio,Twilio.org,sms_telephony,"sms;voice;ivr;api;credits",$–$$,yes,cloud,unknown,Global,https://www.twilio.org/,Impact Access program; starter credits for nonprofits,2025-08-13
+SimpleTexting,SimpleTexting,sms_telephony,"sms;mms;keywords;inbox",$–$$,yes,cloud,unknown,US,https://simpletexting.com/nonprofits/,Nonprofit discounts available,2025-08-13
+Calendly,Calendly,scheduling,"booking;calendar;workflows",$–$$,yes,cloud,unknown,Global,https://calendly.com/nonprofits,Nonprofit discounts available,2025-08-13
+1Password,1Password,security_passwords,"password_manager;vaults;shared",$–$$,yes,cloud,unknown,Global,https://1password.com/nonprofit/,Nonprofit discount; improve security hygiene,2025-08-13
+Onfleet,Onfleet,home_delivery_routing,"driver_app;proof_of_delivery;eta",$$–$$$,yes,cloud,unknown,Global,https://onfleet.com/nonprofits,Onfleet Cares nonprofit pricing; complements BringFood.care,2025-08-13
+Routific,Routific,home_delivery_routing,"route_optimization;driver_app;tracking",$$,yes,cloud,unknown,Global,https://www.routific.com/nonprofits,Nonprofit pricing; driver app support,2025-08-13
+Candid,Candid,grant_management,"funders;grant_discovery;990_search",$–$$,unknown,cloud,unknown,US,https://candid.org/,Grant discovery (FD/O; formerly Foundation Center),2025-08-13

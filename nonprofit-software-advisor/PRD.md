@@ -10,7 +10,7 @@ Nonprofit teams struggle to identify software (and AI usages) that fit real cons
 MVP focuses on 10–20 categories (e.g., home-delivery routing, volunteer management, client CRM, inventory, messaging, portals) and 50–100 vetted tools.
 
 ## 2. Problem Statement
-Discovery is ad hoc. Staff overbuy suites or miss free purpose-built tools (e.g., Bringfood for routing). There’s no turnkey recommender that interviews staff and outputs a justified stack with links and pricing.
+Discovery is ad hoc. Staff overbuy suites or miss free purpose-built tools (e.g., BringFood.care for routing). There’s no turnkey recommender that interviews staff and outputs a justified stack with links and pricing.
 
 ## 3. Goals & Objectives
 - Accurate, explainable recommendations with citations and cost bands
@@ -32,9 +32,9 @@ Discovery is ad hoc. Staff overbuy suites or miss free purpose-built tools (e.g.
 - Channels: web form (MVP), chat interface (nice-to-have: Telegram/WhatsApp)
 - Schema (high-level):
 {
-  "org_profile": {"type": "food_pantry|shelter|education|other", "size": "small|medium|large", "budget_monthly_usd": 0},
-  "needs": ["home_delivery_routing", "volunteer_management", "client_crm", "inventory_pantry", "self_scheduling_portal", "messaging_sms", "voice_interface", "hipaa_like_privacy"],
-  "constraints": {"nonprofit_discount_required": true, "self_hosted_ok": false, "no_heavy_it_support": true, "region": "US|EU|..."}
+  "org_profile": {"type": "food_pantry|shelter|education|other", "size": "small|medium|large", "budget_monthly_usd": 0, "num_users": 0, "region": "US|EU|..."},
+  "needs": ["home_delivery_routing", "volunteer_management", "client_crm", "inventory_pantry", "self_scheduling_portal", "messaging_sms", "voice_interface", "hipaa_like_privacy", "sms_telephony", "forms_surveys", "scheduling", "security_passwords"],
+  "constraints": {"nonprofit_discount_required": true, "self_hosted_ok": false, "no_heavy_it_support": true, "region": "US|EU|...", "gdpr_concern": false}
 }
 
 ### 6.2 Catalog (required)
@@ -54,6 +54,7 @@ PantrySoft,PantrySoft,"client_crm|inventory|appointments","portal;reports;low_co
   - Comparison matrix (capabilities vs PRD-like needs)
   - Cost estimate (monthly + setup band) and assumptions
   - Risks/gaps + mitigations; “try today” steps
+  - Data migration/portability note per tool; nonprofit eligibility steps when applicable
 
 ### 6.4 Output (required)
 - Render as Markdown and PDF
@@ -120,6 +121,6 @@ PantrySoft,PantrySoft,"client_crm|inventory|appointments","portal;reports;low_co
 - Hallucinations → strict citation requirement; model guardrails; rule-first filtering
 
 ## 15. References (examples for catalog seeding)
-- Bringfood (routing, free for nonprofits): https://bringfood.care/
+- BringFood.care (routing, free for nonprofits): https://bringfood.care/
 - PantrySoft (CRM/inventory/appointments): https://www.pantrysoft.com/pricing/
 - TechSoup (discount marketplace): https://www.techsoup.org/
