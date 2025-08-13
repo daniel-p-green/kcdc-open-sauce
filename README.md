@@ -5,6 +5,11 @@
 
 This folder contains a minimal, working set of assets to stand up a Poe bot or Custom GPT that recommends software to small nonprofits.
 
+## Try it online
+
+- [NonprofitTechGuide on Poe](https://poe.com/NonprofitTechGuide)
+- [Nonprofit Tech Guide on ChatGPT (Custom GPT)](https://chatgpt.com/g/g-689cea4f047c819183003748bce08db7-nonprofit-tech-guide)
+
 ## Contents
 
 - `catalog.csv` – curated tools and metadata (seed)
