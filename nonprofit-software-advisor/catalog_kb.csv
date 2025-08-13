@@ -40,3 +40,17 @@ Client Management,Apricot,$79/mo,Demo,Yes,Human services,"Case management, outco
 Client Management,Link2Feed,FREE basic,Yes,Premium available,Food banks,"Client intake, reporting",Easy,No,link2feed.com,Food bank specific
 Survey Tools,SurveyMonkey,FREE basic,Yes,25% off,Feedback,"Surveys, analysis",Easy,Yes,surveymonkey.com,Limited free version
 Survey Tools,Google Forms,FREE,Yes,N/A,Simple surveys,"Unlimited responses, basic",Very Easy,No,forms.google.com,Part of Google Workspace
+Donor Management/CRM,Neon CRM,Contact,Demo,Unknown,All sizes,"Donor mgmt, membership, events, email, volunteer tracking",Medium,No,neonone.com/products/neoncrm,All-in-one nonprofit CRM
+Donor Management/CRM,Raiser's Edge NXT,Contact,Demo,No,Mid-large orgs,"Fundraising, engagement analytics, mobile",Medium,No,blackbaud.com/products/raisers-edge-nxt,Enterprise fundraising CRM
+Donor Management/CRM,Salesforce Nonprofit Cloud,"First 10 free; then $60/user/mo",Yes,Donated credits,Any size (with admin),"CRM, fundraising, programs, volunteers",Hard,No,salesforce.org/nonprofit,Powerful but requires admin capacity
+Fundraising,Classy,Contact,Demo,No,Online fundraising,"P2P, crowdfunding, events, automation",Easy,No,classy.org,Integrates with major CRMs
+Fundraising,Network for Good,Contact,Demo,No,Small-mid orgs,"Donation pages, CRM, coaching",Easy,No,networkforgood.com,Includes coaching services
+Prospect Research,DonorSearch,Contact,Demo,No,Major gifts,"Wealth screening, philanthropy data",Medium,No,donorsearch.net,Prospect research add-on
+AI Analytics,Dataro,Contact,Demo,No,Data-driven teams,"Propensity scoring, predictive analytics",Medium,No,dataro.io,Requires CRM integration
+Volunteer Management,VolunteerMatch,FREE basic,Yes,N/A,Recruiting,"Volunteer opportunity marketplace",Very Easy,No,volunteermatch.org,Great for sourcing volunteers
+Volunteer Management,Better Impact,Contact,Demo,No,Volunteer programs,"Volunteer DB, portal, communications",Medium,No,betterimpact.com,Full volunteer suite
+Volunteer Management,Lumaverse,Contact,Demo,No,Small teams,"Volunteers, members, events, fundraising",Easy,No,lumaverse.com,All-in-one organizer
+Event Management,Cvent,Contact,Demo,No,Large events,"Registration, venue mgmt, engagement",Medium,No,cvent.com,Enterprise event platform
+Event Management,Fonteva Events,Contact,Demo,No,Salesforce orgs,"Native Salesforce events, mobile app",Medium,No,fonteva.com/products/fonteva-events,Requires Salesforce
+Marketing,Feathr,Contact,Demo,No,Digital growth,"Ads, audience targeting, referrals",Medium,No,feathr.co,Digital marketing for nonprofits
+CMS/Website,Webflow,Discount,Yes,Nonprofit discount,Small teams,"Designer CMS, hosting",Medium,No,webflow.com/nonprofits,Discount program available
