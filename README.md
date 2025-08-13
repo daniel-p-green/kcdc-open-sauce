@@ -22,3 +22,22 @@ Calm tech guidance for small nonprofits: share goals and budget, get 2–5 vette
 - `prompts/poe_bot_prompt.txt` – paste into Poe when creating a bot
 - `prompts/custom_gpt_instructions.md` – paste into Custom GPT “Instructions”
 - `examples/intake.small_food_pantry.json` – sample intake
+
+## Next steps
+
+- Use the Poe API to call the bot programmatically:
+
+```python
+import openai
+
+client = openai.OpenAI(
+    api_key="YOUR_POE_API_KEY",  # or os.getenv("POE_API_KEY")
+    base_url="https://api.poe.com/v1",
+)
+
+chat = client.chat.completions.create(
+    model="NonprofitTechGuide",
+    messages=[{"role": "user", "content": "Hello world"}],
+)
+print(chat.choices[0].message.content)
+```
