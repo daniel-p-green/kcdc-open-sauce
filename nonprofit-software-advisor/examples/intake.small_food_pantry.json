@@ -1,0 +1,5 @@
+{
+  "org_profile": {"type": "food_pantry", "size": "small", "budget_monthly_usd": 50, "region": "US", "language": "en"},
+  "needs": ["home_delivery_routing", "volunteer_management", "email_marketing"],
+  "constraints": {"nonprofit_discount_required": true, "self_hosted_ok": false, "baa_required": false}
+}

@@ -1,0 +1,35 @@
+vendor,product,categories,tags,pricing_band,nonprofit_discount,hosting,baa,locale,url,notes,last_verified_at
+Sanborn,BringFood.care,home_delivery_routing,"multi_vehicle;capacity;traffic;free_nonprofit;maps;exports",free,yes,cloud,unknown,US,https://bringfood.care/,Planner for multi-vehicle routes; exports maps and address lists; not a driver app,2025-08-13
+PantrySoft,PantrySoft,"client_crm|inventory|appointments","portal;reports;low_cost",$$ (approx),yes,cloud,unknown,US,https://www.pantrysoft.com/pricing/,Back-office CRM+inventory; not a routing/driver tool,2025-08-13
+Bloomerang,Bloomerang,donor_crm,"donations;emails;letters;reports",$$,yes,cloud,unknown,US,https://bloomerang.co/,SMB-friendly donor CRM,2025-08-13
+Little Green Light,Little Green Light,donor_crm,"donations;events;forms;reports",$–$$,yes,cloud,unknown,US,https://www.littlegreenlight.com/,Affordable donor CRM for small orgs,2025-08-13
+Neon One,Neon CRM,donor_crm,"donations;email;events;peer_to_peer",$$,yes,cloud,unknown,US,https://neonone.com/products/crm/,Broad nonprofit CRM,2025-08-13
+DonorPerfect,DonorPerfect,donor_crm,"donations;pledges;receipts;integrations",$$–$$$,yes,cloud,unknown,US,https://www.donorperfect.com/,Established donor CRM,2025-08-13
+Givebutter,Givebutter,online_fundraising,"donation_forms;events;auctions;peer_to_peer;text_to_give",$–$$,yes,cloud,unknown,US,https://givebutter.com/,Versatile campaigns on one platform,2025-08-13
+Qgiv,Qgiv,online_fundraising,"forms;P2P;events;auctions;kiosks",$$,yes,cloud,unknown,US,https://www.qgiv.com/,Multiple fundraising modalities,2025-08-13
+VolunteerHub,VolunteerHub,volunteer_management,"recruit;schedule;check_in;reminders",$$,yes,cloud,unknown,US,https://www.volunteerhub.com/,Volunteer scheduling & comms,2025-08-13
+Rosterfy,Rosterfy,volunteer_management,"recruit;screen;train;retain;shifts",$$–$$$,yes,cloud,unknown,Global,https://rosterfy.com/,Program-scale volunteer ops,2025-08-13
+Instrumentl,Instrumentl,grant_management,"prospecting;deadlines;workflows;tracking",$$–$$$,yes,cloud,unknown,US,https://www.instrumentl.com/,Grant discovery + tracking,2025-08-13
+GrantHub,GrantHub,grant_management,"deadlines;documents;reports",$$,unknown,cloud,unknown,US,https://www.foundant.com/products/granthub,Grant tracking for small teams,2025-08-13
+OneCause,OneCause,events_auctions,"ticketing;mobile_bidding;fund_a_need",$$–$$$,unknown,cloud,unknown,US,https://www.onecause.com/,Charity event & auction suite,2025-08-13
+Handbid,Handbid,events_auctions,"auctions;mobile_bidding;events",$$,unknown,cloud,unknown,US,https://www.handbid.com/,Auctions/events platform,2025-08-13
+Eventbrite,Eventbrite,events,"ticketing;registration;payments",$–$$,yes,cloud,unknown,Global,https://www.eventbrite.com/nonprofit,General events; nonprofit fee perks,2025-08-13
+Intuit,QuickBooks Nonprofit,accounting,"fund_accounting;classes;donations",$$,yes,cloud/desktop,unknown,US,https://www.techsoup.org/products/quickbooks,Nonprofit accounting via TechSoup,2025-08-13
+Aplos,Aplos,accounting,"fund_accounting;donations;church;nonprofit",$$,yes,cloud,unknown,US,https://www.aplos.com/,Nonprofit accounting suite,2025-08-13
+Google,Google Workspace,productivity,"email;docs;drive;meet",free–$,yes (Google for Nonprofits),cloud,unknown,Global,https://www.google.com/nonprofits/products/workspace/,Productivity donated for nonprofits,2025-08-13
+Microsoft,Microsoft 365 Nonprofit,productivity,"email;office;teams",free–$,yes,cloud,unknown,Global,https://www.microsoft.com/nonprofits/office,Discounted/donated licensing,2025-08-13
+Atlassian,Trello,project_management,"boards;checklists;automations",free–$,yes,cloud,unknown,Global,https://trello.com/nonprofits,Simple PM; free nonprofit upgrades,2025-08-13
+Asana,Asana,project_management,"tasks;projects;workflows",$–$$,yes,cloud,unknown,Global,https://asana.com/nonprofit,Nonprofit discounts available,2025-08-13
+Slack,Slack,communications,"channels;integrations;huddles",$–$$,yes,cloud,unknown,Global,https://slack.com/help/articles/204368833-Discounts-for-nonprofits,Discounted nonprofit plan,2025-08-13
+Mailchimp,Mailchimp,email_marketing,"audiences;automation;templates",$–$$,yes,cloud,unknown,Global,https://mailchimp.com/affiliates/nonprofits/,Discounts; free tiers vary,2025-08-13
+Canva,Canva for Nonprofits,design,"templates;brand_kit;teams",free,yes,cloud,unknown,Global,https://www.canva.com/canva-for-nonprofits/,Pro features free for nonprofits,2025-08-13
+Social Solutions,Apricot,case_management,"intake;assessments;reporting",$$$–$$$$,unknown,cloud,possible,US,https://www.apricotsoftware.com/,Case management for human services,2025-08-13
+Zeffy,Zeffy,online_fundraising,"donations;events;recurring;no_platform_fees",$ (tips),yes,cloud,unknown,Global,https://www.zeffy.com/,0% platform fee (tip-based funding),2025-08-13
+Jotform,Jotform,forms_surveys,"forms;approvals;pdf;hipaa_option",$$,yes,cloud,possible,Global,https://www.jotform.com/nonprofit/,Nonprofit discount; HIPAA add-on available,2025-08-13
+Twilio,Twilio.org,sms_telephony,"sms;voice;ivr;api;credits",$–$$,yes,cloud,unknown,Global,https://www.twilio.org/,Impact Access program; starter credits for nonprofits,2025-08-13
+SimpleTexting,SimpleTexting,sms_telephony,"sms;mms;keywords;inbox",$–$$,yes,cloud,unknown,US,https://simpletexting.com/nonprofits/,Nonprofit discounts available,2025-08-13
+Calendly,Calendly,scheduling,"booking;calendar;workflows",$–$$,yes,cloud,unknown,Global,https://calendly.com/nonprofits,Nonprofit discounts available,2025-08-13
+1Password,1Password,security_passwords,"password_manager;vaults;shared",$–$$,yes,cloud,unknown,Global,https://1password.com/nonprofit/,Nonprofit discount; improve security hygiene,2025-08-13
+Onfleet,Onfleet,home_delivery_routing,"driver_app;proof_of_delivery;eta",$$–$$$,yes,cloud,unknown,Global,https://onfleet.com/nonprofits,Onfleet Cares nonprofit pricing; complements BringFood.care,2025-08-13
+Routific,Routific,home_delivery_routing,"route_optimization;driver_app;tracking",$$,yes,cloud,unknown,Global,https://www.routific.com/nonprofits,Nonprofit pricing; driver app support,2025-08-13
+Candid,Candid,grant_management,"funders;grant_discovery;990_search",$–$$,unknown,cloud,unknown,US,https://candid.org/,Grant discovery (FD/O; formerly Foundation Center),2025-08-13
