@@ -1,0 +1,42 @@
+Category,Software,Price,Free_Tier,Nonprofit_Discount,Best_For,Key_Features,Setup_Difficulty,TechSoup_Available,Website,Notes
+Donor Management/CRM,Little Green Light,$39/mo,14-day trial,Built-in,Small orgs <$250K budget,"Donor tracking, email campaigns, reports",Easy,No,littlegreenlight.com,Most affordable full-featured CRM
+Donor Management/CRM,Bloomerang,$99/mo,Free demo,10% off,Mid-size orgs $250K-$1M,"Retention focus, engagement scoring, dashboards",Easy,No,bloomerang.co,Best for donor retention
+Donor Management/CRM,DonorPerfect,$89/mo,Free trial,Varies,Growing orgs,"Comprehensive reporting, integrations",Medium,Yes,donorperfect.com,Available on TechSoup
+Donor Management/CRM,CiviCRM,FREE,Yes,N/A,Tech-savvy orgs,"Open source, highly customizable",Hard,No,civicrm.org,Requires technical setup
+Volunteer Management,VolunteerHub,FREE up to 100,Yes,Education discount,Small-medium orgs,"Scheduling, tracking, communication",Easy,No,volunteerhub.com,Great free tier
+Volunteer Management,SignUpGenius,FREE basic,Yes,$9.99/mo pro,Events & shifts,"Simple scheduling, reminders",Very Easy,No,signupgenius.com,Perfect for one-time events
+Volunteer Management,POINT,FREE,Yes,N/A,Mobile-first orgs,"Mobile app, gamification",Easy,No,pointapp.org,Good for younger volunteers
+Volunteer Management,Golden,FREE basic,Yes,$50/mo pro,Large programs,"Background checks, training tracking",Medium,No,golden.co,Enterprise features
+Food Delivery/Routing,BringFood.care,FREE,Yes,N/A,Food pantries,"Multi-stop routing, printable routes, Google Maps",Very Easy,No,bringfood.care,PERFECT FOR FOOD BANKS
+Food Delivery/Routing,RouteSavvy,$29.99/mo,7-day trial,No,General delivery,"Route optimization, mobile app",Easy,No,routesavvy.com,Not nonprofit-specific
+Food Delivery/Routing,Circuit,$20/mo,Free trial,No,Small delivery teams,"Driver app, proof of delivery",Easy,No,getcircuit.com,Better for commercial
+Email Marketing,MailChimp,FREE <500 contacts,Yes,15% off,Starting orgs,"Email campaigns, automation, analytics",Easy,No,mailchimp.com,Best free tier
+Email Marketing,Constant Contact,$12/mo,60-day trial,20% off,Growing lists,"Events, surveys, social",Medium,Yes,constantcontact.com,Good all-around tool
+Email Marketing,ConvertKit,FREE <1000,Yes,No,Content creators,"Automation, tagging, forms",Medium,No,convertkit.com,Good for newsletters
+Grant Management,GrantHub,$1199/yr,Free trial,No,Active grant seekers,"Tracking, calendar, reporting",Medium,No,granthub.com,Comprehensive but pricey
+Grant Management,Instrumentl,$179/mo,14-day trial,No,Finding new grants,"Grant discovery, matching",Easy,No,instrumentl.com,Good for research
+Grant Management,Google Sheets,FREE,Yes,N/A,Small programs,"Customizable, collaborative",Easy,No,sheets.google.com,Simple but effective
+Project Management,Asana,FREE <15 users,Yes,50% off,Team collaboration,"Tasks, projects, timeline",Easy,Yes,asana.com,Great nonprofit discount
+Project Management,Trello,FREE basic,Yes,No,Visual organizers,"Boards, cards, simple",Very Easy,No,trello.com,Most intuitive
+Project Management,Monday.com,$0 for nonprofits,Yes,100% off,Larger teams,"Workflows, automation",Medium,Yes,monday.com,FREE for nonprofits!
+Accounting,QuickBooks Nonprofit,$30/mo,30-day trial,Discounted,All sizes,"Fund accounting, reports",Medium,Yes,quickbooks.intuit.com,Industry standard
+Accounting,Wave,FREE,Yes,N/A,Very small orgs,"Basic accounting, invoicing",Easy,No,waveapps.com,Completely free
+Accounting,Aplos,$59/mo,15-day trial,No,Churches/nonprofits,"Fund accounting, donor statements",Easy,No,aplos.com,Designed for nonprofits
+Event Management,Givebutter,FREE,Yes,N/A,Fundraising events,"Ticketing, auctions, donations",Easy,No,givebutter.com,No platform fees!
+Event Management,OneCause,Custom pricing,Demo only,Yes,Large galas,"Auctions, mobile bidding",Medium,No,onecause.com,Enterprise solution
+Event Management,Eventbrite,FREE + fees,Yes,Reduced fees,Public events,"Registration, ticketing",Very Easy,No,eventbrite.com,Good for open events
+Website/CMS,WordPress,FREE,Yes,N/A,DIY websites,"Flexible, plugins, themes",Medium,No,wordpress.org,Requires hosting
+Website/CMS,Wix,FREE basic,Yes,No,Simple sites,"Drag-drop, templates",Very Easy,No,wix.com,Limited free version
+Website/CMS,Squarespace,$16/mo,14-day trial,No,Beautiful sites,"Designer templates, commerce",Easy,No,squarespace.com,Best looking sites
+Productivity Suite,Google Workspace,FREE nonprofits,Yes,100% off,All nonprofits,"Email, docs, drive, meet",Easy,Yes,workspace.google.com,MUST HAVE - FREE!
+Productivity Suite,Microsoft 365,$0-3/user,Yes,Donated,All nonprofits,"Office, Teams, OneDrive",Medium,Yes,microsoft.com/nonprofits,Via TechSoup
+Design Tools,Canva,FREE nonprofits,Yes,100% off,Marketing materials,"Templates, stock photos",Very Easy,No,canva.com/nonprofits,Apply for free Pro
+Design Tools,Adobe Creative Cloud,$19.99/mo,Trial,60% off,Professional design,"Photoshop, Illustrator",Hard,Yes,adobe.com,Via TechSoup only
+Matching Gifts,Double the Donation,$999/yr,Demo,No,Fundraising teams,"Matching gift database, forms",Easy,No,doublethedonation.com,Increases donations
+Matching Gifts,360MatchPro,Custom,Demo,No,Large orgs,"Automation, CRM integration",Medium,No,360matchpro.com,Enterprise solution
+Social Media,Buffer,FREE 3 channels,Yes,$5/mo per channel,Small teams,"Scheduling, analytics",Easy,No,buffer.com,Simple and effective
+Social Media,Hootsuite,$49/mo,30-day trial,50% off,Multiple platforms,"Monitoring, teams, reports",Medium,No,hootsuite.com,More comprehensive
+Client Management,Apricot,$79/mo,Demo,Yes,Human services,"Case management, outcomes",Medium,No,socialsolutions.com,For service delivery
+Client Management,Link2Feed,FREE basic,Yes,Premium available,Food banks,"Client intake, reporting",Easy,No,link2feed.com,Food bank specific
+Survey Tools,SurveyMonkey,FREE basic,Yes,25% off,Feedback,"Surveys, analysis",Easy,Yes,surveymonkey.com,Limited free version
+Survey Tools,Google Forms,FREE,Yes,N/A,Simple surveys,"Unlimited responses, basic",Very Easy,No,forms.google.com,Part of Google Workspace
